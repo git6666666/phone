@@ -10,5 +10,6 @@ a19pro|39|105
 件|买|卖
 -|-|-|
 z9turbo|14|12
+y70|22|13
 ipad air m4|47|30
 MacBook neo|40|27
