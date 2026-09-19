@@ -11,3 +11,4 @@ a19pro|39|105
 -|-|-|
 z9turbo|14|12
 ipad air m4|47|30
+MacBook neo|40|27
